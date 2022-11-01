@@ -1,0 +1,30 @@
+.elementor-3678 .elementor-element.elementor-element-4e4883a .wgl-infobox_title {
+    font-family: "Arimo", Sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    margin: -10px 0px 7px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-3678 .elementor-element.elementor-element-4e4883a .elementor-widget-container:hover .wgl-infobox_title {
+    transform: translateY(0px);
+}
+
+.elementor-3678 .elementor-element.elementor-element-4e4883a .wgl-infobox-button_wrapper {
+    position: absolute;
+    left: 80px;
+    top: -53px;
+}
+
+.elementor-3678 .elementor-element.elementor-element-4e4883a .elementor-widget-container {
+    padding: 190px 0px 172px 0px;
+    background-image: url("https://wgl-demo.net/bili/wp-content/uploads/2022/08/home7-i1.jpg");
+    background-position: center center;
+    background-size: cover;
+    transition: 0.4s;
+}
+
+.elementor-3678 .elementor-element.elementor-element-4e4883a .elementor-widget-container:before {
+    background-color: #232323;
+    mix-blend-mode: color;
+}
